@@ -1,7 +1,8 @@
 hydrogadget-theme
 =================
 
-Pelican Theme for [HydroGadget](http://hydrogadget.org) Blog
+Pelican Theme for [HydroGadget](http://hydrogadget.org) Blog  
+Modified from the notmyidea theme.  
 
 How to use:
 -----------
